@@ -1,0 +1,67 @@
+div {
+    height: 200px;
+    padding: 5px;
+    margin: 15px;
+    width: 350px;
+}
+.yellow {
+    background-color: #FFFF00;
+}
+.black {
+    background-color: black;
+    color: white;
+}
+
+/*.box-exe2 {
+  height: 100px;
+  padding: 5px;
+  margin: 5px;
+  width: 300px;
+}
+
+.yellow box-exe2 {
+  background-color: yellow;
+}
+
+.black box-exe2 {
+  background: black;
+  color: white;
+}
+
+.box-exe3 {
+  display: inline-block;
+  height: 200px;
+  padding: 5px;
+  margin: 15px;
+  width: 350px
+}
+
+.yellow box-exe3 {
+  display: inline-block;
+  height: 200px;
+  padding: 5px;
+  margin: 15px;
+  width: 350px
+  background-color: yellow;
+}
+
+.black box-exe3 {
+  background: black;
+  color: white;
+}
+
+.box-exe4 {
+  display: inline;
+  height: 50px;
+  padding-top: 0px;
+  margin: 10px;
+}
+
+.yellow box-exe4 {
+  background-color: yellow;
+}
+
+.black box-exe4 {
+  background: black;
+  color: white;
+}*/
